@@ -85,7 +85,7 @@ And in the .html file I'll add:
 		<textarea ng-model="model.value"></textarea>
 	</div>
 
-Now our basic parts of the editor is done, namely:
+Now our basic parts of the editor is done, namely: 
 
 - The package manifest, telling Umbraco what to load
 - The HTML view for the editor
